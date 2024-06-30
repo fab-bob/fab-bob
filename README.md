@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hi there I'm <a href= "https://www.linkedin.com/in/alessio-delle-donne-008a35248/"> Fabrizio!👋</a>
-<img src ="https://i.imgur.com/disGdF5.gif" alt= "Sup?" align="right" width="250" height= "139"></img>	</h1>
+<img src="https://github.com/fab-bob/I-am/blob/main/template.svg"/>
+
 
 <p>I'm Fabrizio Lagioia, a back-end java developer.</p>
 
