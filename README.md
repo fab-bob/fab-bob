@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hi there I'm <a href= "https://www.linkedin.com/in/alessio-delle-donne-008a35248/"> Alessio!👋</a>
+<h1>Hi there I'm <a href= "https://www.linkedin.com/in/alessio-delle-donne-008a35248/"> Fabrizio!👋</a>
 <img src ="https://i.imgur.com/disGdF5.gif" alt= "Sup?" align="right" width="250" height= "139"></img>	</h1>
 
-<p>I'm Alessio Delle Donne, a back-end java developer.</p>
+<p>I'm Fabrizio Lagioia, a back-end java developer.</p>
 
 <h2>📫 How to reach me:</h2>
 
-<p><a href="https://www.linkedin.com/in/alessio-delle-donne-008a35248/" target="_blank">
+<p><a href="https://www.linkedin.com/in/fabrizio-lagioia-425070194/" target="_blank">
 <img src = "https://i.imgur.com/OQUXwNp.jpeg" alt = "Linkedin logo" width="30" height ="30" > </img>
 </a>
 			
-<a href="https://github.com/ilGrandeWorro" target="_blank">
+<a href="https://github.com/fab-bob" target="_blank">
 <img src = "https://i.imgur.com/J6LeoUb.png" alt = "GitHub logo" width="30" height ="30" > </img>
 
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/develhope/Java23-Team2-Dealer">
+<li>🔭 I’m currently working on <a href="https://github.com/develhope/Java23-Team1-Dealer">
 <b>Car Dealer</b>
 </a></li>
 <li>🌱 I’m currently learning <b>SpringBoot</b></li>
