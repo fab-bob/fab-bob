@@ -3,8 +3,7 @@
 <body>
 <img src="https://github.com/fab-bob/I-am/blob/main/template.svg"/>
 
-
-<p>I'm Fabrizio Lagioia, a back-end java developer.</p>
+### A back-end java developer.
 
 <h2>📫 How to reach me:</h2>
 
